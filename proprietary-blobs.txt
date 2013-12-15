@@ -93,7 +93,6 @@ lib/libcodecmpeg4enc.so
 lib/libcodecpngdec.so
 lib/libcodecwmadec.so
 lib/libcodecwmvdec.so
-lib/libffmpeg.so
 
 # Sensors
 lib/hw/sensors.mrvl.so
