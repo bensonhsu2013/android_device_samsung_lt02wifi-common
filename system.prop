@@ -1,0 +1,7 @@
+#
+# system.prop for nevocmcc
+#
+
+ro.sf.lcd_density=160
+ro.lcd_min_brightness=20
+
